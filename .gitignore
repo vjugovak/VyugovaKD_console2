@@ -17,6 +17,7 @@ ipython_config.py
 
 # Ignore all PDF files
 *.pdf    
+!VyugovaKD.pdf
 # Vyugova
 
 
