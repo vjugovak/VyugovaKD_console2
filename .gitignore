@@ -20,7 +20,9 @@ ipython_config.py
 !VyugovaKD.pdf
 # Vyugova
 
-
+# Ignore bin and obj directories
+bin/
+obj/
 
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
